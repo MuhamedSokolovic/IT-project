@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Wolfram Alpha </title>
+<style>
+body {background-color:orange;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #236;
+    color: yellow;
+}
+</style>
+</head>
+<body>
+
+<h1>Wolfram Alpha</h1>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#EducationalColection">Educational Colection</a></li>
+  <li><a href="#PersonalColection">Personal Colection</a></li>
+  <li><a href="#Reference&ProfessionalCollection">Reference & Professional Collection</a></li>
+</ul>
+</body>
+</html>
