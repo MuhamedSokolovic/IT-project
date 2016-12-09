@@ -6,8 +6,8 @@
 body {background-color:orange;}
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin:25px;
+    padding: 30px;
     width: 200px;
     background-color: #f1f1f1;
 }
